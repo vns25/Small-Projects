@@ -1,3 +1,7 @@
+# A python script that creates a class ImageOptimizer to optimize images and then resizing to the optimal desired sizes 
+
+
+
 from app.common.helpers import print
 
 import io
